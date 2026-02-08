@@ -1,0 +1,1 @@
+I enjoy working with topics like web technologies, databases, artificial intelligence, and programming, and I like understanding how things work behind the scenes.
