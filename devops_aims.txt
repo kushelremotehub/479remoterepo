@@ -1,0 +1,19 @@
+exp1.write the git commands to demonstrate the following tasks
+
+1.clone a remote repository .
+2.update the cloned repository by performining multiple commits.(at least 4-5 commits).
+3.show the status and log where ever required.
+4.find the differences btw different stages of git and diff commits.
+5.push the final repository to github.
+
+
+
+exp2 : write the git commands to demonstrate the following tasks
+
+
+1. create a local repository with few files(4-5 files).
+2. update the  locally created repository  with 4-5 commits.
+3. show the status and log whenever required.
+4. show the difference between various stages of git and different log entries/commits.
+5. create a remote repo in github and link it with the locally  created repository.
+6.push the updated repository to the remote repository.
